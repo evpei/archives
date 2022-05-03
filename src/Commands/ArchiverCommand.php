@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Evpei\Archiver\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class ArchiverCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'archiver';
 
     public $description = 'My command';
 
